@@ -2,7 +2,7 @@
 @media(min-width:350px){
 .container{
 	margin: 0px 20px;
-	border: solid 2px red;
+	/* border: solid 2px red; */
 	height: auto;
 	/* width: 295px; */
 }
@@ -136,7 +136,7 @@
 @media(min-width:480px){
 	.container{
 		margin: 0px 20px;
-		border: solid 2px red;
+		/* border: solid 2px red; */
 		height: 722px;
 		width: 480px;
 	}
@@ -200,7 +200,7 @@
 
 	.container{
 		margin: 0px 20px;
-		border: solid 2px red;
+		/* border: solid 2px red; */
 		height: 777px;
 		width: 480px;
 	}
@@ -301,7 +301,7 @@
 	
 	.container{
 		margin: 0px 20px;
-		border: solid 2px red;
+		/* border: solid 2px red; */
 		height: 777px;
 		width: auto;
 	}
