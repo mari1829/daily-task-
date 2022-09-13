@@ -1,0 +1,542 @@
+.container{
+	height:auto;
+	width:90%;
+	margin:10px 40px;
+	border:solid 2px blue;
+	
+}
+
+.text-1{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+   margin-bottom: 20px;
+	border:solid 2px red;
+}
+
+.page-1-text h1{
+	text-align:center;
+	color:gray;
+    font-size: 36px;
+}
+
+.page-1-text p{	
+	text-align:center;
+	color:gray;	
+	font-size: 30px;
+}
+
+.ph-email p{
+	text-align:center;
+	color:gray;	
+    font-size: 31px;
+}
+
+.copy-rights p{
+	text-align:center;
+    margin-top: 150px;
+	font-size:30px;	
+}
+
+.bold1{
+	color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+.text-2{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;	
+}
+
+.text-2 h1{
+	text-align:center;
+   font-size: 40px;
+   color:#0e0e8f;
+}
+
+.text-2 li{
+    list-style: none;
+    margin: 50px;
+    font-size: 31px;
+   margin-left: 180px;
+   color:gray;
+}
+
+.text-2 li i{
+	color:#7676e3;
+	margin-right:10px;
+}
+	
+
+
+
+
+
+
+
+
+
+.text-3{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;
+	
+}
+
+
+.text-3 h1{
+	text-align:center;
+   font-size: 40px;
+   color:#0e0e8f;
+}
+
+.text-3 li{
+    list-style: none;
+    margin: 50px;
+    font-size: 31px;
+   margin-left: 180px;
+   color:gray;
+}
+
+.text-3 li i{
+	color:#7676e3;
+	margin-right:10px;
+}
+
+
+
+
+
+
+.text-4{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;
+	
+}
+
+.forms{
+	position:relative;
+	text-align:center;
+}
+
+.forms button{
+    padding: 15px;
+    background-color: #0e0e8f;
+    position: absolute;
+    left: 333px;
+    color: white;
+}
+
+.forms input{
+    height: 45px;
+    width: 226px;
+}
+
+.text-4 h1{
+	text-align:center;
+    font-size: 36px;
+    color: #0e0e8f;
+}
+
+.text-4 p{
+    font-size: 29px;
+	text-align:center;
+    margin-bottom: 105px;
+}
+
+.grp-icons a{
+    height: 55px;
+    width: 55px;
+    padding: 10px;
+	   margin: 17px;
+	   background-color:#0e0e8f;
+}
+
+.grp-icons{
+     margin-top: 275px;
+}
+
+.grp-icons i{
+	font-size:23px;
+	color:white;
+}
+
+
+
+
+@media(min-width:576px){
+.container{
+	height:auto;
+	width:90%;
+	margin:10px 40px;
+	border:solid 2px blue;
+	
+}
+
+.text-1{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+   margin-bottom: 20px;
+	border:solid 2px red;
+}
+
+.page-1-text h1{
+	text-align:center;
+	color:gray;
+    font-size: 36px;
+}
+
+.page-1-text p{	
+	text-align:center;
+	color:gray;	
+	font-size: 30px;
+}
+
+.ph-email p{
+	text-align:center;
+	color:gray;	
+    font-size: 31px;
+}
+
+.copy-rights p{
+	text-align:center;
+    margin-top: 150px;
+	font-size:30px;	
+}
+
+.bold1{
+	color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+.text-2{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;	
+}
+
+.text-2 h1{
+	text-align:center;
+   font-size: 40px;
+   color:#0e0e8f;
+}
+
+.text-2 li{
+    list-style: none;
+    margin: 50px;
+    font-size: 31px;
+   margin-left: 180px;
+   color:gray;
+}
+
+.text-2 li i{
+	color:#7676e3;
+	margin-right:10px;
+}
+	
+
+
+
+
+
+
+
+
+
+.text-3{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;
+	
+}
+
+
+.text-3 h1{
+	text-align:center;
+   font-size: 40px;
+   color:#0e0e8f;
+}
+
+.text-3 li{
+    list-style: none;
+    margin: 50px;
+    font-size: 31px;
+   margin-left: 180px;
+   color:gray;
+}
+
+.text-3 li i{
+	color:#7676e3;
+	margin-right:10px;
+}
+
+
+
+
+
+
+.text-4{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;
+	
+}
+
+.forms{
+	position:relative;
+	text-align:center;
+}
+
+.forms button{
+    padding: 15px;
+    background-color: #0e0e8f;
+    position: absolute;
+    left: 333px;
+    color: white;
+}
+
+.forms input{
+    height: 45px;
+    width: 226px;
+}
+
+.text-4 h1{
+	text-align:center;
+    font-size: 36px;
+    color: #0e0e8f;
+}
+
+.text-4 p{
+    font-size: 29px;
+	text-align:center;
+    margin-bottom: 105px;
+}
+
+.grp-icons a{
+    height: 55px;
+    width: 55px;
+    padding: 10px;
+	   margin: 17px;
+	   background-color:#0e0e8f;
+}
+
+.grp-icons{
+     margin-top: 275px;
+}
+
+.grp-icons i{
+	font-size:23px;
+	color:white;
+}
+}
+
+
+
+@media(min-width:768px){
+.container{
+	height:auto;
+	width:90%;
+	margin:10px 40px;
+	border:solid 2px blue;
+	
+}
+
+.text-1{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+   margin-bottom: 20px;
+	border:solid 2px red;
+}
+
+.page-1-text h1{
+	text-align:center;
+	color:gray;
+    font-size: 36px;
+}
+
+.page-1-text p{	
+	text-align:center;
+	color:gray;	
+	font-size: 30px;
+}
+
+.ph-email p{
+	text-align:center;
+	color:gray;	
+    font-size: 31px;
+}
+
+.copy-rights p{
+	text-align:center;
+    margin-top: 150px;
+	font-size:30px;	
+}
+
+.bold1{
+	color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+.text-2{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+    margin-bottom: 20px;
+	border:solid 2px red;	
+}
+
+.text-2 h1{
+	text-align:center;
+   font-size: 40px;
+   color:#0e0e8f;
+}
+
+.text-2 li{
+    list-style: none;
+    margin: 50px;
+    font-size: 31px;
+   margin-left: 180px;
+   color:gray;
+}
+
+.text-2 li i{
+	color:#7676e3;
+	margin-right:10px;
+}
+	
+
+
+
+
+
+
+
+
+
+.text-3{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;
+    margin-bottom: 20px;
+}
+
+
+.text-3 h1{
+	text-align:center;
+   font-size: 40px;
+   color:#0e0e8f;
+}
+
+.text-3 li{
+    list-style: none;
+    margin: 50px;
+    font-size: 31px;
+   margin-left: 180px;
+   color:gray;
+}
+
+.text-3 li i{
+	color:#7676e3;
+	margin-right:10px;
+}
+
+
+
+
+
+
+.text-4{
+	max-width:90%;
+    height: 60vh;
+	margin:auto;
+	border:solid 2px red;
+	
+}
+
+.forms{
+	position:relative;
+	text-align:center;
+}
+
+.forms button{
+    padding: 15px;
+    background-color: #0e0e8f;
+    position: absolute;
+       left: 462px;
+    color: white;
+}
+
+.forms input{
+    height: 45px;
+       width: 50%;
+}
+
+.text-4 h1{
+	text-align:center;
+    font-size: 36px;
+    color: #0e0e8f;
+}
+
+.text-4 p{
+    font-size: 29px;
+	text-align:center;
+    margin-bottom: 105px;
+}
+
+.grp-icons a{
+    height: 55px;
+    width: 55px;
+    padding: 10px;
+	   margin: 17px;
+	   background-color:#0e0e8f;
+}
+
+.grp-icons{
+    margin-top: 240px;
+}
+
+.grp-icons i{
+	font-size:23px;
+	color:white;
+}
+}
+
+
